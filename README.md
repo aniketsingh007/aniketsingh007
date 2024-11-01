@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Singh 👋
 
-### Data Analyst | BCA Graduate | MS Excel | Power BI | MySQL | Python
+### Data Analyst | MIS Analyst | BCA Graduate | MS Excel | Power BI | MySQL | Python | Transforming Complex Data into Actionable Business Insights
 
 Welcome to my GitHub profile! I am a BCA graduate with a strong foundation in data analysis and visualization. I enjoy working with data, uncovering insights, and helping to drive informed decision-making.
 
